@@ -1,9 +1,8 @@
 config:
-  value: "category-service we are in dev env"
-
+  value: "category-service we are in dev env first change"
 
 management:
-   endpoints:
-     web:
+  endpoints:
+    web:
       exposure:
-       include: "*"
+        include: "*"
