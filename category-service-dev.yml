@@ -1,2 +1,9 @@
 config:
   value: "category-service we are in dev env"
+
+
+management:
+   endpoints:
+     web:
+      exposure:
+       include: "*"
