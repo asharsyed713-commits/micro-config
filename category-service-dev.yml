@@ -1,5 +1,5 @@
 config:
-  value: "category-service we are in dev env first change"
+  value: "category-service we are in dev env second change added extra things"
 
 management:
   endpoints:
