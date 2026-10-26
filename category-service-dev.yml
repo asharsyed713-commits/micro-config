@@ -1,5 +1,5 @@
 config:
-  value: "category-service we are in dev env second change added extra"
+  value: "Checking bus refresh for category service"
 
 management:
   endpoints:
