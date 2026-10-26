@@ -1,5 +1,5 @@
 config:
-  value: "Checking bus refresh for category service"
+  value: "{cipher}5eaee25a86d4361cfb0b059e8a0d1d664d854817b4b7c03bcfca780af21eea192996e1317145dd71eaba6b88b24bb294e539cfca54d7897cb7bfa4d9056b2f3c"
 
 management:
   endpoints:
